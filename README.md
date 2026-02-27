@@ -47,3 +47,5 @@ npm run dev
 - Do NOT commit `.env`
 - Use Azure App Service Application Settings for production environment variables
 - Structured for scalable backend development
+## Version
+v1.0 - Initial stable backend structure
