@@ -1,1 +1,0 @@
-import { errorHandler } from "../middlewares/error.middleware.js";
